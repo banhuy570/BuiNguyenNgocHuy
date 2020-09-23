@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">profile</string>
+    <string name="show_all_comments">Show all comments</string>
+    <string name="add_to_group">Add to group</string>
+    <string name="follow_me">Follow Me</string>
+    <string name="todo">TODO</string>
+</resources>

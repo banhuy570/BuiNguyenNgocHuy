@@ -1,0 +1,4 @@
+include ':signup'
+include ':signin'
+include ':myapplication'
+rootProject.name = "login"
