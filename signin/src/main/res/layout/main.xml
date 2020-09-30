@@ -47,6 +47,22 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/megamark" />
 
+    <Button
+        android:id="@+id/btlogout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="161dp"
+        android:layout_marginEnd="162dp"
+        android:layout_marginBottom="76dp"
+        android:background="@drawable/round_bg"
+        android:text="@string/logout"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
     <TextView
         android:id="@+id/name"
         android:layout_width="wrap_content"

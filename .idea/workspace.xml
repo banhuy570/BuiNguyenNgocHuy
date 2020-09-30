@@ -11,9 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="867276a4-9eef-4332-809a-873e2f2f920e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signin/src/main/java/huy/com/signin/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signin/src/main/res/layout/main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -24,11 +21,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/myapplication/myapplication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/myapplication/myapplication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/signin/signin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/signin/signin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/signup/signup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/signup/signup.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signin/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/signin/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signin/src/main/java/huy/com/signin/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/signin/src/main/java/huy/com/signin/SignIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signin/src/main/java/huy/com/signin/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/signin/src/main/java/huy/com/signin/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signin/src/main/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/signin/src/main/res/layout/main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/signin/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/signin/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -498,10 +496,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601476354259" />
-    <state x="1299" y="353" key="AndroidCreateXmlResourceDialog" timestamp="1601477073676">
+    <state x="1299" y="353" key="AndroidCreateXmlResourceDialog" timestamp="1601479133170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1299" y="353" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601477073676" />
+    <state x="1299" y="353" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601479133170" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600736434957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -538,10 +536,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600736757902" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1601398630969">
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1601479026756">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601398630969" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601479026756" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1599729930589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
